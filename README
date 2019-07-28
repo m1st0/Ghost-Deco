@@ -1,12 +1,12 @@
-Ghost-Deco 2.3 Dev
+Ghost-Deco 2.4 Dev
 
 Installation
 ------------
 Move this folder into:
-~/.kde/share/apps/aurorae/themes/
+~/.local/share/aurorae/themes/
 
 For example:
-~/.kde/share/apps/aurorae/themes/Ghost-Deco/
+~/.local/share/aurorae/themes/Ghost-Deco
 
 IMPORTANT: This folder MUST be named "Ghost-Deco" or the theme WILL NOT WORK properly!
 
