@@ -1,8 +1,8 @@
 [Desktop Entry]
-Comment=A window decoration to compliment the Ghost theme for Plasma
-Name=Ghost-Deco
+Name=Ghost-Deco 2.4
+Comment=A window decoration to compliment the Ghost plasma theme
 X-KDE-PluginInfo-Author=J.M.Todaro
-X-KDE-PluginInfo-Email=jmtodaro@gmail.com
+X-KDE-PluginInfo-Email=design@jmtodaro.com
+X-KDE-PluginInfo-Website=http://jmtodaro.com
+X-KDE-PluginInfo-Version=2.4
 X-KDE-PluginInfo-License=GPL_V2
-X-KDE-PluginInfo-Version=2.3 dev
-X-KDE-PluginInfo-Website=https://github.com/jmtodaro/Ghost-Deco/
